@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "826292834588",
+    "firebase_url": "https://chuss-flutter-default-rtdb.firebaseio.com",
+    "project_id": "chuss-flutter",
+    "storage_bucket": "chuss-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826292834588:android:0cbfdfed44115c7c6a6ad9",
+        "android_client_info": {
+          "package_name": "com.flutter.chuss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826292834588-g2q29avela04df1j9dqqqhuva13mu7oq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutter.chuss",
+            "certificate_hash": "923c08c8cbae6bc1920019da6b8e29640c1fbf4a"
+          }
+        },
+        {
+          "client_id": "826292834588-l5n3n8k68ena8himl1ce0m6o5i0s8omi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZqNJi7fGE-ydQa0-lnCyjtAZAtB-aS-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826292834588-l5n3n8k68ena8himl1ce0m6o5i0s8omi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
